@@ -32,3 +32,4 @@ function GenerateEmployees() {
     EmployeeInfo("Steven", "Gerrard", 34, 200000, "Management");
     EmployeeInfo("Luis", "Suarez", 28, 300000, "Development");
 }
+ 
