@@ -24,7 +24,7 @@ function createForm(){
     createElements("breakTag","breakTag","","br");
     createElements("label","lblLastName","Last Name : ","label");
     createElements("text","inputLastName","","input");
-    createElements("breakTag","breakTag","","br");
+    createElements("breakTag","breakTag","","br"); 
     createElements("breakTag","breakTag","","br");
     createElements("label","lblEmail","Email : ","label");
     createElements("email","inputEmail","","input");
